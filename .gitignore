@@ -1,0 +1,21 @@
+# IDEs and Editors
+.idea/
+*.iml
+.vscode/
+*.ipr
+*.iws
+
+# Gradle / Maven Build Artifacts
+build/
+.gradle/
+out/
+target/
+bin/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs & Env
+*.log
+.env
